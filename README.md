@@ -1,7 +1,5 @@
 # Geoguard: Flood and Landslide Prediction System
 
-![Geoguard](static/img/logo.png)
-
 An intelligent disaster preparedness platform that combines machine learning predictions with comprehensive disaster awareness and emergency support. Geoguard empowers communities with real-time risk assessment, educational content, emergency contacts, and disaster preparedness tools.
 
 ## Features
