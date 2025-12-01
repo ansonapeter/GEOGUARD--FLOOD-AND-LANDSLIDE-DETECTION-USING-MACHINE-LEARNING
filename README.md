@@ -61,7 +61,7 @@ An intelligent disaster preparedness platform that combines machine learning pre
    \`\`\`
 
 4. **Configure Geolocation API**
-   - Obtain a free HERE Maps API key from https://developer.here.com
+   - Obtain API key from https://www.visualcrossing.com/weather-api/
    - Add your API key to the Flask application configuration or environment variables
 
 5. **Download NLTK Data** (for chatbot)
@@ -159,7 +159,7 @@ Geoguard uses the HERE Maps Geocoding API to convert city names into precise geo
 # Input: "Delhi"
 # Output: Latitude: 28.6139, Longitude: 77.2090
 
-# API Endpoint: https://geocode.search.hereapi.com/v1/geocode
+# API Endpoint: https://www.visualcrossing.com/weather-api/
 # Params: apikey, q (query city name)
 # Response: JSON with location details including lat/lng
 \`\`\`
