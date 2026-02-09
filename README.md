@@ -82,6 +82,7 @@ An intelligent disaster preparedness platform that combines machine learning pre
 - View real-time risk predictions for major Indian cities
 - Access quick links to all features
 - See current disaster awareness information
+  
   ![Home Page](Flood1.jpeg)
 
 ### Risk Prediction with Geolocation
@@ -90,6 +91,7 @@ An intelligent disaster preparedness platform that combines machine learning pre
 3. The system converts your city selection to precise latitude/longitude coordinates
 4. View detailed risk assessment for floods and landslides in your area
 5. Check meteorological data influencing predictions for your location
+   
    ![Prediction](Flood2.jpeg)
 
 **How Geolocation Works:**
@@ -105,11 +107,17 @@ An intelligent disaster preparedness platform that combines machine learning pre
    - Emergency helpline numbers
    - Historical disaster information
 
+      ![Chatbot](Flood3.jpeg)
+
+
 ### Educational Resources
 - **Quizzes**: Test your disaster awareness knowledge (15+ questions)
 - **Videos**: Watch safety-focused educational videos
 - **Emergency Contacts**: Find helpline numbers for your state or region
 - **Games**: Learn preparedness through interactive gaming
+
+   ![Game](Flood4.jpeg)
+
 
 ## Project Structure
 
